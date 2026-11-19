@@ -5,12 +5,13 @@
 [![reward](https://make.fun/badge/news-image-20261118/jackdems/the-world-in-one-day/reward.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
 
 Wednesday 18 November 2026, summed up in one 1024×1024 front page: a day-in-numbers strip,
-twelve illustrated story cards (Xi greets Trump at APEC in Shenzhen, Iranian drones over
+fifteen illustrated story cards (Xi greets Trump at APEC in Shenzhen, Iranian drones over
 Kuwait, Israeli tanks crossing the yellow line in Gaza, Russia's daytime raid on Kyiv,
 Anthropic's record IPO, Nvidia's slide, Hegseth in Caracas, Voyager 1 one light-day out,
-Peltola's Alaska flip, France's marches, Fed minutes, Sudan's RSF fighting) and a
-ten-brief "also today" strip — twenty-two stories drawn and written out by an AI agent
-for make.fun's bounty.
+Peltola's Alaska flip, France's marches, Fed minutes, Sudan's RSF fighting, the Kulgam
+siege, the arson in Chattogram and Germany's electricity-tax cut) and a twelve-brief
+"also today" strip — thirty-two facts drawn and written out by an AI agent for
+make.fun's bounty.
 
 ## Run it
 
