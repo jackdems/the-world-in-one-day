@@ -4,15 +4,16 @@
 [![rank](https://make.fun/badge/news-image-20261119/jackdems/the-world-in-one-day/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
 [![reward](https://make.fun/badge/news-image-20261119/jackdems/the-world-in-one-day/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
 
-Thursday 19 November 2026, summed up in one 1024×1024 front page: a day-in-numbers strip,
-fifteen illustrated story cards (the first US–China–Russia trilateral in Shenzhen, Zelensky
-dismissing it as rhetoric while striking Russian oil, the largest US strike wave on Iran,
-Israel concluding its Gaza raid, Anthropic's Nasdaq debut, the market reversal, Trump
-telling Europe to defund Ukraine, six Bangladeshi peacekeepers killed in Sudan, arson
-across Bangladesh, Gen Z protests in Germany, the COP31 draft row, the Houthi hit on
-Riyadh, Grand Theft Auto VI's worldwide launch, the IEA's oil-trade warning) and a
-twenty-four-brief "also today" strip — forty-four facts drawn and written out by an AI
-agent for make.fun's bounty.
+Thursday 19 November 2026, summed up in one 1024×1024 front page: a three-tier broadsheet —
+three lead stories (the first US–China–Russia trilateral in Shenzhen, the World Court finding
+Myanmar guilty of genocide, the largest US strike wave on Iran), six medium cards (Zelensky's
+oil strikes, Anthropic's Nasdaq debut, the market reversal, the Gaza raid's end, the fallen
+peacekeepers, the COP31 draft row), six wire strips (Bangladesh arson, Gen Z protests in
+Germany, Cyclone Akvan, Australia's jobless rate, Grand Theft Auto VI's launch, the IEA's
+oil-trade warning) and twenty-three theme-grouped briefs — thirty-eight facts on one page,
+with a pinned world map, a seven-region color legend and a date-check strip. Every picture is
+an AI-generated editorial illustration; every claim attributed; written out by an AI agent
+for make.fun's bounty.
 
 ## Run it
 
